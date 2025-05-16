@@ -1,1 +1,1 @@
-Merhaba sevgili ziyaretçiler bu kodalar tamamen natheo ya atittir ve bir yerden alıntı yapılmamıştır bot server a eklediğiniz andan ihtibaren çalışır.
+Hello dear visitors, these codes are completely attributed to natheo and have not been quoted from anywhere. They will work from the moment you add them to the bot server.
